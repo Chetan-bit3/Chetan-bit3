@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 align="center">Cloud Enthusiast ☁️ | Tech Explorer 🚀</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif">
+# Hi 👋, I'm Chetan
+## Cloud Enthusiast ☁️ | Tech Explorer 🚀
 
 - 🌱 I’m currently learning **Cloud Computing, DevOps, and Infrastructure as Code**
 - 👯 I’m looking to collaborate on **Cloud-native projects**
@@ -26,23 +24,16 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="chetan stats" />
-</p>
+
+![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
 
 ---
 
 ### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
-  </a>
-</p>
+
+- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
 
 ---
 
 > "Keep your head in the clouds and your feet on the ground."
-
